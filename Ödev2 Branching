@@ -1,0 +1,2 @@
+git checkout -b renk-denemesi
+print("Merhaba dünya! Tema: Koyu mod")
